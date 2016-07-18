@@ -1,0 +1,140 @@
+menus:
+  sweets:
+    name: Sweets
+    categories:
+      - name: Biscotti & Cookies
+        items:
+          - name: Chocolate Hazelnut Biscotti
+            price: 2.50 ea
+          - name: Cardamom Apricot Biscotti
+            price: 2.50 ea
+          - name: Chocolate Chip Cookies
+            price: 1 ea
+          - name: Polenta Cookies
+            price: 1 ea
+          - name: Shortbread Cookies (Seasonal Flavours)
+            price: 1.50 ea
+      - name: À La Carte Desserts
+        items:
+          - name: Pistachio Cake
+            price: 7
+          - name: Corn Panna Cotta
+            price: 6
+          - name: Chocolate Ganache Torte
+            price: 8
+          - name: Chocolate Ganache Torte
+            price: 8
+          - name: Chocolate Ganache Torte
+            price: 8
+          - name: Chocolate Ganache Torte
+            price: 8
+          - name: Chocolate Ganache Torte
+            price: 8
+          - name: Chocolate Ganache Torte
+            price: 8
+          - name: Chocolate Ganache Torte
+            price: 8
+          - name: Chocolate Ganache Torte
+            price: 8
+          - name: Chocolate Ganache Torte
+            price: 8
+          - name: Chocolate Ganache Torte
+            price: 8
+          - name: Chocolate Ganache Torte
+            price: 8
+  coffee:
+    name: Coffee
+    items:
+      - name: Coffee
+        small: 2.55
+        large: 2.95
+      - name: Espresso
+        small: 2.75
+        large: 3.55
+      - name: Cortado
+        small: 2.95
+        large: "-"
+      - name: Cappuccino
+        small: 2.95
+        large: 3.75
+      - name: Latte
+        small: 2.95
+        large: 3.75
+      - name: Americano
+        small: 2.75
+        large: 3.55
+      - name: Tea
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Hot Chocolate
+        small: 2.55
+        large: 2.95
+      - name: Ricarda's Roast
+        small: 12 oz bag
+        large: 18.95
+  grab_and_go:
+    name: Grab & Go
+    categories:
+      - name: Sandwiches
+        items:
+          - name: Pulled Roasted Chicken
+            price: 0
+            description: Artichoke hummus, cucumber za'atar yogurt, pickled red onion, brussels sprout slaw
+          - name: Shaved 48hr Beef Brisket
+            price: 0
+            description: Sweet onion, charred onion & caper relish, smoked provolone, pickled mushrooms, porcini mustard
+          - name: Jambon
+            price: 0
+            description: Poached pears, apricot mustard, fior di latte, candied walnut cranberry, cheddar loaf
+          - name: Garden
+            price: 0
+            description: Artichoke & edamame hummus, pickled eggplant, chevre, arugula
+  breads:
+    name: Breads
+    items:
+      - name: Rosemary Thyme Focaccia
+        price: 8
+      - name: German Dark Rye
+        price: 6
+      - name: French Baguette
+        price: 6
+      - name: Vollkornbrot
+        price: 10
+      - name: Musli Brotchen
+        price: 3
