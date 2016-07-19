@@ -1,6 +1,6 @@
 ---
 layout: page
-title: " bbop About"
+title: About
 permalink: "/about/"
 ---
 
