@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Stuff
+title: About Me
 permalink: "/about/"
 ---
 Woop woop!
