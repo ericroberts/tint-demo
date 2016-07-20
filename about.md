@@ -1,5 +1,5 @@
 ---
-layout: other
+layout: place
 title: About Me Here
 permalink: "/about/"
 ---
