@@ -16,21 +16,3 @@ social:
   href: "#TODO"
 - site: Twitter
   href: http://twitter.com/
----
-nav:
-  - text: Reservations
-    href: '#TODO'
-  - text: Gift Cards
-    href: '#TODO'
-  - text: Press
-    href: /blog
-  - text: Careers
-    href: /careers
-  - text: Contact
-    href: /contact
-address: '134 Peter Street, Toronto'
-social:
-  - site: Facebook
-    href: '#TODO'
-  - site: Twitter
-    href: 'http://twitter.com/'
