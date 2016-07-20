@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: other
 title: About Me Here
 permalink: "/about/"
 ---
@@ -18,6 +18,7 @@ and then
 
 * this
 * is
+* sparta
 
 `some code`
 
