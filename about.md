@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Page
+title: About Me
 permalink: "/about/"
 ---
 Woop
@@ -20,7 +20,5 @@ and then
 * is
 
 `some code`
-
-
 
 > `some quote`
