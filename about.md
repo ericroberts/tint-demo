@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About Me Here
 permalink: "/about/"
 ---
 Woop woop! What what whgat what a cool time
