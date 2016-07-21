@@ -9,3 +9,4 @@ twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
 _advanced_only: true
+exclude: ['Makefile', 'makefile']
