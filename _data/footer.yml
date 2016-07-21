@@ -1,21 +1,5 @@
 ---
-image_path:
-  :filename: 11111aaaaabbbbb.jpg
-  :type: image/jpeg
-  :name: data[image_path]
-  :tempfile: !ruby/marshalable:Tempfile
-    :__v2__:
-    - :@unlinked
-    - :@mode
-    - :@tmpfile
-    - :@opts
-    ? - false
-      - 2562
-      - &1 !ruby/object:File {}
-      - :perm: 384
-    : *1
-  :head: "Content-Disposition: form-data; name=\"data[image_path]\"; filename=\"11111aaaaabbbbb.jpg\"\r\nContent-Type:
-    image/jpeg\r\n"
+image_path: uploads/11111aaaaabbbbb.jpg
 nav:
 - text: Reservations2ss
   href: "#TODO"
@@ -34,7 +18,7 @@ social:
 - site: Twitter
   href: http://twitter.com/
 ---
-image_path: 11111aaaaabbbbb.jpg
+image_path: 
 nav:
 - text: Reservations2ss
   href: "#TODO"
