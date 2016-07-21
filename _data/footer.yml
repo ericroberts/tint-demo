@@ -1,3 +1,39 @@
+---
+image_path:
+  :filename: 11111aaaaabbbbb.jpg
+  :type: image/jpeg
+  :name: data[image_path]
+  :tempfile: !ruby/marshalable:Tempfile
+    :__v2__:
+    - :@unlinked
+    - :@mode
+    - :@tmpfile
+    - :@opts
+    ? - false
+      - 2562
+      - &1 !ruby/object:File {}
+      - :perm: 384
+    : *1
+  :head: "Content-Disposition: form-data; name=\"data[image_path]\"; filename=\"11111aaaaabbbbb.jpg\"\r\nContent-Type:
+    image/jpeg\r\n"
+nav:
+- text: Reservations2ss
+  href: "#TODO"
+- text: Gift Cards
+  href: "#TODO"
+- text: Press
+  href: "/blog"
+- text: Careers
+  href: "/careers"
+- text: Contact
+  href: "/contact"
+address: 134 Peter Street, Toronto
+social:
+- site: Facebook
+  href: "#TODO"
+- site: Twitter
+  href: http://twitter.com/
+---
 image_path: 11111aaaaabbbbb.jpg
 nav:
 - text: Reservations2ss
