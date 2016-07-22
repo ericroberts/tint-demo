@@ -3,7 +3,7 @@ layout: post
 title: Welcome to Jekyll!
 date: 2016-07-28 22:29:52.000000000 -04:00
 other_date: 2016-07-28
-another_date: 2016-07-14
+another_date: 2016-07-22
 a_datetime: 2016-07-29 02:04:00.000000000 -04:00
 categories: jekyll update
 ---
