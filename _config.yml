@@ -13,13 +13,3 @@ exclude:
 - makefile
 date: 2016-07-28
 stuff_date: ''
-colours:
-  red: Rouge
-  blue: Bleu
-  white: Blanc
-numbers:
-  - 0
-  - 1
-  - 2
-  - 3
-  - 10
