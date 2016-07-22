@@ -1,7 +1,8 @@
 image_path: uploads/2016/6b25171e-13ab-4c18-9d04-5df7b861d25a-11111aaaaabbbbb.jpg
 colour: blue
 number: ''
-colours: []
+colours:
+- red
 items:
 - a thing
 - another thing
