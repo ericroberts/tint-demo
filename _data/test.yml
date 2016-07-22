@@ -3,6 +3,7 @@ colour: blue
 number: ''
 colours:
 - ''
+- red
 items:
 - a thing
 - another thing
