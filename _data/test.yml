@@ -1,2 +1,9 @@
+image_path:
 colour: blue
 number: ''
+items:
+- 1
+- 2
+- 3
+- 4
+
