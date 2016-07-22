@@ -1,7 +1,7 @@
 .PHONY: all install
 
 all:
-	jekyll build
+	jekyll build --incremental
 
 install:
 	rm -rf "$(PREFIX)"/*
