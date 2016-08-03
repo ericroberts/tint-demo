@@ -10,9 +10,9 @@ options:
     - 3
     - 10
   pastas:
-    - Spaghetti
-    - Penne
-    - Rotini
-    - Barbina
-    - Capellini
-    - Fusilli
+    spa: Spaghetti
+    pen: Penne
+    rot: Rotini
+    bar: Barbina
+    cap: Capellini
+    fus: Fusilli
