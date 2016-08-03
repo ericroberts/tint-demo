@@ -25,3 +25,21 @@ textarea: "a textarea. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 nested_hash:
   a_key: a value 2
   another_key: another value
+complex_nested_array:
+  - name: Blah
+    items:
+      - name: A thing
+        items:
+          - one
+          - two
+          - three
+      - name: another thing
+        items:
+          - four
+          - five
+          - six
+  - name: Hello
+    items:
+      - item one
+      - item two
+      - item three
