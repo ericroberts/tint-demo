@@ -14,12 +14,12 @@ pastas:
 - bar
 time: 2016-08-02 22:55:58.000000000 -04:00
 date: 2016-08-03
-textarea: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tortor ante,
-  luctus ac facilisis sit amet, aliquet non ante. Nam diam lectus, venenatis quis
-  blandit vitae, cursus nec augue. Nam quis est eleifend, vestibulum nunc ac, semper
-  nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
-  Curae; Donec et accumsan sem. Cras nec erat luctus, congue diam sit amet, scelerisque
-  nulla. In nisl mi, vulputate vel augue nec, consequat dignissim augue.\r\n"
+textarea: "a textarea. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce
+  tortor ante, luctus ac facilisis sit amet, aliquet non ante. Nam diam lectus, venenatis
+  quis blandit vitae, cursus nec augue. Nam quis est eleifend, vestibulum nunc ac,
+  semper nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+  cubilia Curae; Donec et accumsan sem. Cras nec erat luctus, congue diam sit amet,
+  scelerisque nulla. In nisl mi, vulputate vel augue nec, consequat dignissim augue.\r\n"
 nested_hash:
   a_key: a value 2
   another_key: another value
