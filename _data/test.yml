@@ -2,7 +2,8 @@ image_path: uploads/2016/6b25171e-13ab-4c18-9d04-5df7b861d25a-11111aaaaabbbbb.jp
 colour: blue
 number: '1'
 boolean: true
-colours: []
+colours:
+- red
 items:
 - a thing
 - another thing
