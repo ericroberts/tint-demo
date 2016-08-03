@@ -26,20 +26,65 @@ nested_hash:
   a_key: a value 2
   another_key: another value
 complex_nested_array:
-  - name: Blah
+- name: Blah
+  items:
+  - name: A thing
     items:
-      - name: A thing
-        items:
-          - one
-          - two
-          - three
-      - name: another thing
-        items:
-          - four
-          - five
-          - six
-  - name: Hello
+    - one
+    - two
+    - three
+  - name: another thing
     items:
-      - item one
-      - item two
-      - item three
+    - four
+    - five
+    - six
+    - five
+    - five
+  - name: another thing
+    items:
+    - four
+    - five
+    - six
+    - five
+    - five
+- name: Hello
+  items:
+  - item one
+  - item two
+  - item three
+- name: 
+  items:
+  - 
+- name: Hello
+  items:
+  - item one
+  - item two
+  - item three
+  - item one
+  - item one
+  - item two
+  - item three
+  - item one
+  - item one
+  - item two
+- name: Blah
+  items:
+  - name: A thing
+    items:
+    - one
+    - two
+    - three
+  - name: another thing
+    items:
+    - four
+    - five
+    - six
+    - five
+    - five
+  - name: another thing
+    items:
+    - four
+    - five
+    - six
+    - five
+    - five
