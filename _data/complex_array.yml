@@ -13,3 +13,6 @@
 - name: Fifth item name
   description: Fifth item description is really long and should trigger a text field
     probably.
+- name: First item name
+  description: First item description is really long and should trigger a text field
+    probably.
