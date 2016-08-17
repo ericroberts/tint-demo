@@ -4,6 +4,9 @@ number: '1'
 boolean: true
 colours:
 - 
+- red
+- blue
+- white
 items:
 - a thingie
 - another thing
