@@ -1,3 +1,5 @@
+hidden_paths:
+  - .*
 options:
   colours:
     red: Rouge
