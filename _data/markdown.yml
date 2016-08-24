@@ -1,7 +1,7 @@
-stuff_md: "<h1 id=\"let-s-try-this-again\">Let's try this again</h1>\r\nyay some markdown
-  maybe?"
-stuff_markdown: '<span style="font-family: sans-serif; font-size: medium; white-space:
+stuff_md: "<h1 id=\"let-s-try-this-again\">Let's try this again</h1>\r\n<p>\r\nyay
+  some markdown maybe?</p>"
+stuff_markdown: '<p><span style="font-family: sans-serif; font-size: medium; white-space:
   normal;">9e77cd2 </span><time style="box-sizing: border-box; font-family: sans-serif;
   font-size: medium; white-space: normal;" datetime="2016-08-24 14:11:51 -0400" data-strftime="%F
   %H:%M">2016-08-24 14:11</time><span style="font-family: sans-serif; font-size: medium;
-  white-space: normal;"> Modified _data/markdown.yml via tint</span>'
+  white-space: normal;"> Modified _data/markdown.yml via tint</span></p>'
