@@ -1,9 +1,3 @@
-stuff_md: |
-  # this is a header
-
-  this is some paragraph shit
-
-stuff_markdown: |
-  ## markdown sucks
-
-  long live markdown
+stuff_md: "<h1 id=\"this-is-a-header\">this is a header</h1>\r\n<p>this is some paragraph
+  shit</p>"
+stuff_markdown: "<h2 id=\"markdown-sucks\">markdown sucks</h2>\r\n<p>long live markdown</p>"
