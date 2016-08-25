@@ -1,2 +1,3 @@
-stuff_md: "\r\n# this is a header\r\n\r\nthis is some paragraph shit\r\n"
-stuff_markdown: "\r\n## markdown sucks\r\n\r\nlong live markdown\r\n\r\n# My new header\r\n"
+stuff_md: "# this is a header\r\n\r\nthis is some paragraph shit\r\n\r\nmore paragraphs
+  that suck balls\r\n"
+stuff_markdown: "## markdown sucks\r\n\r\nlong live markdown\r\n\r\n# My new header\r\n"
