@@ -1,4 +1,4 @@
 stuff_md: "<h1>this is a header this is some paragraph shit more paragraphs that suck
-  WTF?</h1>\r\n\r\n<p>jkfldsjaklfdsa</p>\r\n\r\n<p>fdjkslaf;djksla;fdsa</p>\r\n\r\n<p>blah
+  WTF?</h1>\r\n\r\n<p>jkfldsja**klfdsa**</p>\r\n\r\n<p>fdjkslaf;djksla;fdsa</p>\r\n\r\n<p>blah
   blah blah</p>\r\n"
-stuff_markdown: "<p>## markdown sucks long live markdown # My new header</p>\r\n"
+stuff_markdown: "## markdown sucks long live markdown\r\n# My new header\r\n"
