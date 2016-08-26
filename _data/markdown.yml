@@ -6,6 +6,16 @@ stuff_md: |
   But also some HTML.
 
   I love this editor
-stuff_markdown: |
-  ## markdown sucks long live markdown
+stuff_markdown: |-
   # My new header
+
+  ![10403053_10152909117376120_5165262107673862315_n.jpg](10403053_10152909117376120_5165262107673862315_n.jpg)
+
+  * one
+  * two
+  * three
+
+
+  1. one
+  2. two
+  3. three
