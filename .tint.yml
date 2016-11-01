@@ -18,3 +18,11 @@ options:
     bar: Barbina
     cap: Capellini
     fus: Fusilli
+filename_frontmatter:
+  "*":
+  - key: date
+    strptime: "%Y-%m-%d"
+  - match: "-"
+  - key: title
+    match: "[^\\.]+"
+    format: slugify
